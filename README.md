@@ -29,4 +29,4 @@ Add this to your application.js file:
 
 ## Usage
 
-Visit: https://vestride.github.io/Shuffle/adding-removing
+Visit: https://vestride.github.io/Shuffle/
